@@ -169,7 +169,7 @@ ent-v314-013.local
 ==========
 18a. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
-
+pwd
 
 
 ==========
