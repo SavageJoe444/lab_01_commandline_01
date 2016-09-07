@@ -1,4 +1,4 @@
-
+asdf
 Lab - Entering Commands
 ==========
 Follow the instructions line-by-line.  
