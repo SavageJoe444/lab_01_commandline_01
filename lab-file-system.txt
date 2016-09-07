@@ -192,15 +192,15 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
-
+mkdir pineapple orange strawberry lemon
+ls
 
 ==========
 20. Make another directory called aardvark.  
 
 Write the command you used to create the directory below:
 ----------
-
+mkdir aardvark
 
 
 ==========
